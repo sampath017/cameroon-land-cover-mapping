@@ -4,4 +4,4 @@ Automate Land Use and Cover Mapping with Computer Vision and Satellite Imagery i
 
 # Notes
 
-coordinates in data/cameroon.geojson file are of a part of india just for experimenting api.
+coordinates in data/cameroon.geojson file are of a part of cameroon just for experimenting api.
